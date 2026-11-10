@@ -1,0 +1,7 @@
+{
+  "name": "prompt-master",
+  "version": "0.1.0",
+  "description": "One-click Prompt Master button that rewrites your prompt into a clearer, stronger one before it is sent",
+  "types": "./types/index.d.ts",
+  "license": "MIT"
+}

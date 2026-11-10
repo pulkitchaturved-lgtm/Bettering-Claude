@@ -1,0 +1,7 @@
+{
+  "name": "bettering-claude",
+  "owner": { "name": "pulkitchaturved-lgtm" },
+  "plugins": [
+    { "name": "prompt-master", "source": "./plugins/prompt-master", "description": "One-click Prompt Master button that rewrites your prompt before it is sent" }
+  ]
+}
